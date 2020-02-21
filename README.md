@@ -15,3 +15,10 @@ sensor treshold, time delay in ms, check current sensor reading, start trigger
 - 3,5mm mono Jack for Flash trigger cable
 
 ## Test images
+Test images made with DSLR and Hot Shoe Flash
+
+
+![testimage](/test-images/IMG_5727.jpg)
+![testimage](/test-images/IMG_5745.jpg)
+![testimage](/test-images/IMG_5746.jpg)
+![testimage](/test-images/IMG_5747.jpg)
